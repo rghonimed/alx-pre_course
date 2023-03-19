@@ -1,7 +1,2 @@
 #!/bin/bash
-echo "School"
-
-^C
-C
-
-:wq
+echo "ALX School"
